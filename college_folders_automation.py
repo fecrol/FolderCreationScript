@@ -1,3 +1,7 @@
+"""
+Written by Maciej Fec
+email: maciejfec1996@gmail.com
+"""
 import os
 
 # Default directory
